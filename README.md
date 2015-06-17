@@ -5,6 +5,8 @@
 You'll find an html file, some css and a `main.js`.
 The *main purpose* was to let this work in LightTable:
 
+|Entry in about LightTable|Version|
+|---|---|
 |Light Table version|0.7.2|
 |Binary version|0.8.6|
 
