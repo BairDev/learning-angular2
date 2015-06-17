@@ -1,0 +1,14 @@
+html {
+  background-color: #ccc;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #eee;
+  font-family: Helvetica, Arial, sans-serif;
+}
+#showAngular button {
+  border-radius: 3px;
+  background-color: #04c328;
+}
